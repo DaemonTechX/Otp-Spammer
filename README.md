@@ -33,3 +33,23 @@ cd Otp-Spammer # Berfungsi Untuk Berpindah Directory Dari Directory Utama Termux
 
 bash start.sh # Menjalankan Program Utama Untuk Menggunakan Alat Otp Spammer
 ```
+
+<h1 align="center"><code>Author</code></h1>
+<p align="center"> <img src="https://github.com/DaemonTechX/email_security/blob/main/Image/Red%20Black%20Modern%20Technology%20Presentation_20251009_054924_0000.png" width="400"><br><br>
+    <a href="https://whatsapp.com/channel/0029VbBLBZ80lwgrRDEnyV0v">
+      <img src="https://img.shields.io/badge/-WHATSAPP-black?logo=whatsapp&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://tiktok.com/@by_exe9">
+      <img src="https://img.shields.io/badge/-TIKTOK-black?logo=tiktok&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://www.youtube.com/@ByexeOfficial">
+      <img src="https://img.shields.io/badge/-YOUTUBE-black?logo=youtube&style=for-the-badge">
+    </a>
+    &nbsp;
+    <a href="https://github.com/DaemonTechX">
+      <img src="https://img.shields.io/badge/-GITHUB-black?logo=github&style=for-the-badge">
+    </a>
+
+</p>
