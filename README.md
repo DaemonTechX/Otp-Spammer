@@ -1,3 +1,5 @@
+<h1 align="center"><code>OTP-SPAMMER</code></h1> <p align="center"> <img src="https://github.com/Arby-Hex/PyObfuscate/blob/main/banner.png" width="590"><br><br>
+
 _Sebuah alat yang berfungsi untuk mengirimkan banyak kode OTP secara beruntun dengan tujuan menyepam ataupun membanjiri kolom pesan target_
 
 _untuk menggunakan alat ini kalian cukup menjalankan perintah ini di termux_
