@@ -6,7 +6,7 @@ _untuk menggunakan alat ini kalian cukup menjalankan perintah ini di termux_
 ```bash
 pkg update && pkg upgrade
 
-plg install python
+pkg install python
 
 pkg install python-pip
 
