@@ -10,8 +10,6 @@ plg install python
 
 pkg install python-pip
 
-pkg install bash
-
 pkg install git
 
 git clone https://github.com/DaemonTechX/Otp-Spammer
@@ -22,7 +20,7 @@ ls
 
 pip install requests
 
-bash start.sh
+python otp.py
 ```
 
 _jika sudah menjalankan seluruh perintah nya di atas lalu Ingin menjalankan alat nya lagi maka cukup jalankan perintah ini_
@@ -31,7 +29,7 @@ cd $HOME # Berfungsi Untuk Kembali Ke Directory Utama Di Termux
 
 cd Otp-Spammer # Berfungsi Untuk Berpindah Directory Dari Directory Utama Termux Pindah Ke Directory Otp-Spammer
 
-bash start.sh # Menjalankan Program Utama Untuk Menggunakan Alat Otp Spammer
+python otp.py # Menjalankan Program Utama Untuk Menggunakan Alat Otp Spammer
 ```
 
 <h1 align="center"><code>Author</code></h1>
